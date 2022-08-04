@@ -1,0 +1,27 @@
+{
+  "firmas":{
+    "paraiso":{
+      "nombre":"Lcda Margoth Elizabeth Maza",
+      "cargo":"Especialista de Biblioteca Campus Paraíso"
+    },
+  
+    "central":{
+      "nombre":"Lcda Luz Vázquez Ávila",
+      "cargo":"Especialista de Biblioteca Campus Central"
+    },
+  
+    "yanuncay":{
+      "nombre":"Lcda Ximena Carrasco Aguilar",
+      "cargo":"Especialista de Biblioteca Campus Yanuncay"
+    },
+  
+    "coordinacion":{
+      "nombre":"Lcda Rocío Campoverde Carpio, Mg.",
+      "cargo":"Coordinadora General"
+    },
+    "centrohist":{
+      "nombre":"Lcda Diana Marlene Fajardo Pasán, Mg.",
+      "cargo":"Bibliotecaria Campus Centro Histórico"
+    }
+  }
+}
